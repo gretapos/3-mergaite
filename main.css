@@ -32,9 +32,9 @@ a {
     border-radius: 18px;
     border: 5px solid transparent ;
 }
-a: :last-child {
+a:last-child {
     border-color: #9e9e9e;
-    text-trasform: uppercase;
+    text-decoration: uppercase;
     margin-left: 15px;
 }
 
